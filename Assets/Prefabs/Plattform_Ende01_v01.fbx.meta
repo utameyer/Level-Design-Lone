@@ -1,0 +1,224 @@
+fileFormatVersion: 2
+guid: 34748c38f29f8492f8a4e53af26b02db
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Camera
+    100002: ende02
+    100004: Light
+    100006: //RootNode
+    100008: Stein01.009
+    100010: Stein01.010
+    100012: Stein01.011
+    100014: Stein01.012
+    100016: Stein01.013
+    100018: Stein01.014
+    100020: Stein01.015
+    100022: Stein02.002
+    100024: Stein02.003
+    100026: Stein02.004
+    100028: Stein02.005
+    100030: wurzel.024
+    100032: wurzel.025
+    100034: wurzel.026
+    100036: wurzel.027
+    100038: wurzel.028
+    100040: wurzel.029
+    100042: wurzel.030
+    100044: wurzel.031
+    100046: wurzel.032
+    100048: wurzel.033
+    100050: wurzel.034
+    100052: wurzel.035
+    100054: wurzel.036
+    100056: wurzel.037
+    100058: wurzel.038
+    400000: Camera
+    400002: ende02
+    400004: Light
+    400006: //RootNode
+    400008: Stein01.009
+    400010: Stein01.010
+    400012: Stein01.011
+    400014: Stein01.012
+    400016: Stein01.013
+    400018: Stein01.014
+    400020: Stein01.015
+    400022: Stein02.002
+    400024: Stein02.003
+    400026: Stein02.004
+    400028: Stein02.005
+    400030: wurzel.024
+    400032: wurzel.025
+    400034: wurzel.026
+    400036: wurzel.027
+    400038: wurzel.028
+    400040: wurzel.029
+    400042: wurzel.030
+    400044: wurzel.031
+    400046: wurzel.032
+    400048: wurzel.033
+    400050: wurzel.034
+    400052: wurzel.035
+    400054: wurzel.036
+    400056: wurzel.037
+    400058: wurzel.038
+    2000000: Camera
+    2100000: Material
+    2100002: No Name
+    2100004: Material.002
+    2100006: Material.001
+    2300000: ende02
+    2300002: Stein01.009
+    2300004: Stein01.010
+    2300006: Stein01.011
+    2300008: Stein01.012
+    2300010: Stein01.013
+    2300012: Stein01.014
+    2300014: Stein01.015
+    2300016: Stein02.002
+    2300018: Stein02.003
+    2300020: Stein02.004
+    2300022: Stein02.005
+    2300024: wurzel.024
+    2300026: wurzel.025
+    2300028: wurzel.026
+    2300030: wurzel.027
+    2300032: wurzel.028
+    2300034: wurzel.029
+    2300036: wurzel.030
+    2300038: wurzel.031
+    2300040: wurzel.032
+    2300042: wurzel.033
+    2300044: wurzel.034
+    2300046: wurzel.035
+    2300048: wurzel.036
+    2300050: wurzel.037
+    2300052: wurzel.038
+    3300000: ende02
+    3300002: Stein01.009
+    3300004: Stein01.010
+    3300006: Stein01.011
+    3300008: Stein01.012
+    3300010: Stein01.013
+    3300012: Stein01.014
+    3300014: Stein01.015
+    3300016: Stein02.002
+    3300018: Stein02.003
+    3300020: Stein02.004
+    3300022: Stein02.005
+    3300024: wurzel.024
+    3300026: wurzel.025
+    3300028: wurzel.026
+    3300030: wurzel.027
+    3300032: wurzel.028
+    3300034: wurzel.029
+    3300036: wurzel.030
+    3300038: wurzel.031
+    3300040: wurzel.032
+    3300042: wurzel.033
+    3300044: wurzel.034
+    3300046: wurzel.035
+    3300048: wurzel.036
+    3300050: wurzel.037
+    3300052: wurzel.038
+    4300000: ende02
+    4300002: wurzel.024
+    4300004: Stein02.002
+    4300006: Stein02.003
+    4300008: Stein02.004
+    4300010: Stein01.009
+    4300012: Stein01.010
+    4300014: Stein01.011
+    4300016: Stein01.012
+    4300018: Stein01.013
+    4300020: Stein02.005
+    4300022: Stein01.014
+    4300024: Stein01.015
+    10800000: Light
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
